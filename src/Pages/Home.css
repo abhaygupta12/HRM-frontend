@@ -1,0 +1,28 @@
+
+.mainpage
+  {
+      /* background-image: url("img/Doctors.jpg"); */
+      background-image: url(../components/img/Doctor.jpg);
+      height: calc(100vh - 70px);
+      background-repeat: no-repeat;
+      background-size:cover;
+  }
+ 
+  .mainpage h1
+  {
+    color:#004861;  
+    font-size: 5.35rem;
+    
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+  }
+  .mainpage h2
+  {
+    color:#333333;  
+    font-size: 2.066rem;
+}
+.content
+{
+    padding: 121px 0px 0px 705px;
+}
+  
